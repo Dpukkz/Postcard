@@ -28,6 +28,7 @@ class ViewController: UIViewController {
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
+        // Adding a comment to test
         // Dispose of any resources that can be recreated.
     }
     @IBAction func sendMailButtonPressed(sender: UIButton) {
